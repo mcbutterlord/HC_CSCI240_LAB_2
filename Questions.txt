@@ -1,0 +1,52 @@
+Intro to Programming Lab 2 – In Python Input, Output and Assignment
+
+For this lab use Replit. Completing each question in the set.
+
+1)      Prompt the user for their name.  Read the name.  Output “Hello “, followed by their name.
+                Sample run:
+                                Enter your name: Bob
+                                Hello Bob
+
+2)      Prompt and read two real numbers from the user.  Calculate and display the sum, difference and product of the two numbers.
+
+                Sample run:
+                                Enter first number: 12.5
+                                Enter second number: 4.5
+                                Sum: 17
+                                Difference: 8
+                                Product: 56.25
+
+3)      Prompt and read two whole numbers from the user.  Calculate and display the sum, difference and product of the two numbers.
+
+                Sample run:
+                                Enter first number: 12
+                                Enter second number: 4
+                                Sum: 16
+                                Difference: 8
+                                Product: 48
+
+4)      Write a program that prompts the user for the Fahrenheit temperature, converts to Celsius and prints the result.
+
+Sample run:
+                                Enter Fahrenheit temperature: 212
+                                Converted to Celsius: 100
+
+5)      Write a program that prompts the user for the days rented and miles driven in order to calculate the car rental fee.  The business rule that defines the fee:
+                Total Fee is $49.50 for each day rented plus $.09 per mile.
+
+Sample run:
+                                Enter days rented: 4
+                                Enter miles driven: 459
+                                Total Fee: $239.31
+
+6)      Write a program that prompts the user for the amount of change (0 – 99) and calculates the correct (fewest number of coins) number of quarters, dimes, nickels and pennies to return as change. 
+Hint: Be sure to use a whole number (int) type for all variables.  Use Div (// with int types) and Mod (%) operators.
+
+                Sample run:
+                                Enter total change: 87
+                                Quarters: 3
+                                Dimes: 1
+                                Nickels: 0
+                                Pennies: 2
+
+ 7) Complete the snowman, add body, buttons, and arms.
